@@ -1,30 +1,17 @@
-# Academia Numen — CRM Backend (MVP funcional)
+# Academia Numen CRM V6
 
-## Arranque local (Python 3.12+)
+Secuencias de seguimiento, preferencias de email, baja pública y reprogramación de tareas, sobre la V5 existente.
 
-```bash
-cp .env.example .env
-# Cambiar JWT_SECRET y ADMIN_PASSWORD en .env
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-uvicorn app.main:app --reload
-```
+- [Actualizar sin reemplazar .env, SQLite ni Git](INSTALACION-V6.md)
+- [Cambios V6](CHANGELOG-V6.md)
+- [Pruebas ejecutadas y límites](PRUEBAS-V6.md)
 
-API: http://localhost:8000/docs · Health: http://localhost:8000/health
+Los documentos V5 se conservan como referencia histórica; para esta entrega usar los archivos V6.
 
-La base de datos local predeterminada es SQLite para facilitar pruebas. Para PostgreSQL utilizar `docker compose up --build` (configurar `.env` antes). El backend crea el superadmin al primer inicio con las credenciales de `.env`.
+Backend: Python 3.12. `python -m pip install -r requirements.txt`, `python -m pytest -q`. Para una primera prueba sin envíos ni trabajador periódico: `EMAIL_DELIVERY_ENABLED=false AUTOMATION_ENABLED=false python -m uvicorn app.main:app --reload`.
 
-### Incluido
-- Login JWT, usuarios y roles predefinidos, permisos aplicados en backend.
-- Cursos comerciales, leads, asignación, estados, notas, auditoría, dashboard.
-- Ventas y confirmación **manual** de pago; bandeja `outbox` de eventos pendientes.
-- Documentación OpenAPI en `/docs`.
+Frontend: Node 22 recomendado. `npm ci`, `npm run typecheck`, `npm test`, `npm run build`; desarrollo con `npm run dev`.
 
-### Aún NO implementado
-- Envío real de email/WhatsApp (outbox registra eventos, no los envía).
-- IA, automatización de 12 horas, webhooks de formularios, exportaciones, facturación.
-- Matrícula real en Campus, verificación de pagos con proveedor, SSO.
-- Permisos configurables dinámicamente, migraciones Alembic, paginación avanzada, tests de integración completos.
+Agregar PUBLIC_CRM_URL=http://localhost:3000 al .env del backend para activar y probar secuencias locales. Usar una URL pública del frontend antes de enviarlas a personas fuera de tu computadora. Las secuencias no inscriben leads automáticamente al instalar.
 
-**No desplegar como producción sin** HTTPS, gestión de secretos, migraciones, backups, protección antiabuso, autenticación reforzada, permisos revisados y pruebas de seguridad. No usar datos personales reales durante las primeras pruebas.
+SMTP e IA reales requieren configuración y validación con el proveedor. No se conectó el campus ni se modificó la instalación original de Work.

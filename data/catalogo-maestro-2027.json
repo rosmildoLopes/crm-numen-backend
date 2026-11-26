@@ -1,0 +1,3501 @@
+{
+  "source_title": "Academia Numen — Mapa curricular maestro 2027",
+  "source_sha256": "5c2cb089febfe0c6dd9f5057354c5bc2dc931a49ac8d2c2d86cf05360fd9d89a",
+  "program_count": 41,
+  "career_count": 24,
+  "independent_course_count": 17,
+  "schools": [
+    {
+      "code": "1",
+      "name": "Marketing, Comunicación y Negocios Digitales"
+    },
+    {
+      "code": "2",
+      "name": "Diseño Digital y Experiencia de Usuario"
+    },
+    {
+      "code": "3",
+      "name": "Desarrollo de Software y Programación"
+    },
+    {
+      "code": "4",
+      "name": "Ciberseguridad y Seguridad Informática"
+    },
+    {
+      "code": "5",
+      "name": "Datos, Inteligencia Artificial y Automatización"
+    },
+    {
+      "code": "6",
+      "name": "Administración, Dirección y Gestión Empresarial"
+    },
+    {
+      "code": "7",
+      "name": "Project Management y PMI"
+    },
+    {
+      "code": "8",
+      "name": "Gobierno, Políticas Públicas y Asuntos Institucionales"
+    }
+  ],
+  "notes": [
+    "Precios, moneda e identificadores del campus no informados; valores null.",
+    "Módulos y lecciones propuestos, sujetos a validación. No equivalen a materiales producidos.",
+    "No se importan precios de competidores ni proyecciones financieras como precios de Numen.",
+    "Archivo preparado para revisión. No se modificó la base del CRM."
+  ],
+  "programs": [
+    {
+      "code": "1.1",
+      "name": "Marketing Digital Profesional",
+      "school_code": "1",
+      "school_name": "Marketing, Comunicación y Negocios Digitales",
+      "type": "Carrera",
+      "duration_indicative": "5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de marketing digital profesional. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Estrategia digital",
+          "proposed_lessons": [
+            "1.1 Panorama del marketing digital y ecosistema de canales",
+            "1.2 Análisis del negocio y contexto competitivo",
+            "1.3 Investigación del mercado y competidores",
+            "1.4 Diagnóstico de presencia digital",
+            "1.5 Objetivos SMART y KPI",
+            "1.6 Segmentación de mercados",
+            "1.7 Construcción de buyer persona",
+            "1.8 Mapa del recorrido del cliente",
+            "1.9 Propuesta de valor y posicionamiento",
+            "1.10 Estrategia de canales propios, pagos y ganados",
+            "1.11 Presupuesto y asignación por canal",
+            "1.12 Plan omnicanal y hoja de ruta"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Contenidos y SEO",
+          "proposed_lessons": [
+            "2.1 Fundamentos del marketing de contenidos",
+            "2.2 Investigación de audiencia y necesidades de búsqueda",
+            "2.3 Intención de búsqueda y mapa de contenidos",
+            "2.4 Investigación de palabras clave",
+            "2.5 Arquitectura SEO de un sitio",
+            "2.6 SEO on-page: títulos, metadatos y encabezados",
+            "2.7 SEO técnico: indexación, rastreo y rendimiento",
+            "2.8 SEO off-page y autoridad",
+            "2.9 Redacción de contenidos orientados a conversión",
+            "2.10 Calendario editorial y distribución",
+            "2.11 Google Search Console y medición orgánica",
+            "2.12 Auditoría y optimización de contenidos"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Publicidad en Meta y TikTok Ads",
+          "proposed_lessons": [
+            "3.1 Ecosistema publicitario de Meta y TikTok",
+            "3.2 Configuración de Meta Business Suite",
+            "3.3 Configuración de Meta Ads Manager",
+            "3.4 Objetivos y estructura de campañas en Meta",
+            "3.5 Audiencias y segmentación en Meta",
+            "3.6 Formatos y ubicaciones publicitarias de Meta",
+            "3.7 Creatividades y copys para Meta",
+            "3.8 Configuración de TikTok Ads Manager",
+            "3.9 Objetivos y estructura de campañas en TikTok",
+            "3.10 Audiencias y segmentación en TikTok",
+            "3.11 Videos y creatividades nativas de TikTok",
+            "3.12 Instalación de Meta Pixel y eventos",
+            "3.13 Instalación de TikTok Pixel y eventos",
+            "3.14 Conversion API y calidad de medición",
+            "3.15 Presupuestos, pujas y pruebas A/B",
+            "3.16 Lectura de métricas y optimización en ambas plataformas",
+            "3.17 Remarketing y coordinación Meta–TikTok",
+            "3.18 Laboratorio: diseño de campañas en ambas plataformas"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Google Ads",
+          "proposed_lessons": [
+            "4.1 Fundamentos del ecosistema Google Ads",
+            "4.2 Investigación de palabras clave e intención",
+            "4.3 Estructura de cuenta, campañas y grupos de anuncios",
+            "4.4 Tipos de concordancia y negativas",
+            "4.5 Redacción de anuncios de búsqueda",
+            "4.6 Assets y extensiones de anuncios",
+            "4.7 Configuración de conversiones y objetivos",
+            "4.8 Estrategias de puja y presupuestos",
+            "4.9 Campañas Display y audiencias",
+            "4.10 Introducción a YouTube Ads",
+            "4.11 Performance Max: configuración y activos",
+            "4.12 Optimización de calidad, CPA y ROAS",
+            "4.13 Laboratorio de campaña y reporte"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Analítica y CRO",
+          "proposed_lessons": [
+            "5.1 Fundamentos de medición y plan de etiquetado",
+            "5.2 Configuración de GA4",
+            "5.3 Eventos y conversiones en GA4",
+            "5.4 Google Tag Manager: contenedores y etiquetas",
+            "5.5 Depuración y control de calidad de datos",
+            "5.6 UTM y trazabilidad de campañas",
+            "5.7 Exploraciones y embudos de GA4",
+            "5.8 Diseño de dashboards de marketing",
+            "5.9 Métricas de adquisición y retención",
+            "5.10 Introducción a CRO y experiencia de conversión",
+            "5.11 Hipótesis y experimentos A/B",
+            "5.12 Modelos de atribución y sus limitaciones",
+            "5.13 Laboratorio de análisis y recomendaciones"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "CRM y automatización",
+          "proposed_lessons": [
+            "6.1 Arquitectura de un embudo comercial",
+            "6.2 Captura de leads y formularios",
+            "6.3 Fundamentos de CRM y pipeline",
+            "6.4 Segmentación y gestión de contactos",
+            "6.5 Diseño de campañas de email marketing",
+            "6.6 Automatización de secuencias de email",
+            "6.7 WhatsApp Business para atención y ventas",
+            "6.8 Flujos automatizados de WhatsApp",
+            "6.9 Lead scoring y calificación",
+            "6.10 Integración entre CRM, formularios y campañas",
+            "6.11 Diseño de workflows y disparadores",
+            "6.12 Medición de conversión y retención",
+            "6.13 Consentimiento, privacidad y buenas prácticas",
+            "6.14 Laboratorio de automatización integral"
+          ]
+        },
+        {
+          "number": 7,
+          "name": "E-commerce y crecimiento",
+          "proposed_lessons": [
+            "7.1 Modelos de negocio del comercio electrónico",
+            "7.2 Plataformas y arquitectura de tiendas",
+            "7.3 Catálogo, fichas de producto y precios",
+            "7.4 Checkout, medios de pago y logística",
+            "7.5 Estrategias de adquisición para tiendas",
+            "7.6 Recuperación de carritos abandonados",
+            "7.7 Email y CRM para retención",
+            "7.8 Fidelización y recompra",
+            "7.9 Fundamentos de marketplaces",
+            "7.10 Introducción a Amazon y otros marketplaces",
+            "7.11 Métricas de e-commerce y cohortes",
+            "7.12 CAC, LTV, margen y unit economics",
+            "7.13 Laboratorio de plan de crecimiento"
+          ]
+        },
+        {
+          "number": 8,
+          "name": "Proyecto de marketing",
+          "proposed_lessons": [
+            "8.1 Definición del brief y alcance",
+            "8.2 Diagnóstico del negocio y competidores",
+            "8.3 Investigación de audiencia",
+            "8.4 Objetivos, métricas y presupuesto",
+            "8.5 Estrategia de contenidos y SEO",
+            "8.6 Plan de campañas Meta y TikTok",
+            "8.7 Plan de campañas Google Ads",
+            "8.8 Diseño de embudo y automatización",
+            "8.9 Plan de medición y dashboard",
+            "8.10 Simulación de ejecución y ajustes",
+            "8.11 Preparación del informe ejecutivo",
+            "8.12 Presentación y defensa del proyecto"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1.2",
+      "name": "Inteligencia Artificial Aplicada a los Negocios",
+      "school_code": "1",
+      "school_name": "Marketing, Comunicación y Negocios Digitales",
+      "type": "Carrera",
+      "duration_indicative": "4–5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de inteligencia artificial aplicada a los negocios. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Fundamentos y oportunidades",
+          "proposed_lessons": [
+            "1.1 Casos de uso",
+            "Taller práctico: casos de uso en un caso profesional",
+            "1.2 Capacidades y límites",
+            "Taller práctico: capacidades y límites en un caso profesional",
+            "1.3 Procesos candidatos",
+            "Taller práctico: procesos candidatos en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Productividad con IA",
+          "proposed_lessons": [
+            "2.1 Asistentes",
+            "Taller práctico: asistentes en un caso profesional",
+            "2.2 Investigación y síntesis",
+            "Taller práctico: investigación y síntesis en un caso profesional",
+            "2.3 Generación de documentos",
+            "Taller práctico: generación de documentos en un caso profesional",
+            "2.4 Verificación",
+            "Taller práctico: verificación en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Marketing y ventas con IA",
+          "proposed_lessons": [
+            "3.1 Contenidos",
+            "Taller práctico: contenidos en un caso profesional",
+            "3.2 Segmentación",
+            "Taller práctico: segmentación en un caso profesional",
+            "3.3 Crm",
+            "Taller práctico: crm en un caso profesional",
+            "3.4 Automatización comercial",
+            "Taller práctico: automatización comercial en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Operaciones y finanzas",
+          "proposed_lessons": [
+            "4.1 Procesos",
+            "Taller práctico: procesos en un caso profesional",
+            "4.2 Forecasting básico",
+            "Taller práctico: forecasting básico en un caso profesional",
+            "4.3 Asistentes internos",
+            "Taller práctico: asistentes internos en un caso profesional",
+            "4.4 Calidad de datos",
+            "Taller práctico: calidad de datos en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Implementación y gobernanza",
+          "proposed_lessons": [
+            "5.1 Privacidad",
+            "Taller práctico: privacidad en un caso profesional",
+            "5.2 Riesgos",
+            "Taller práctico: riesgos en un caso profesional",
+            "5.3 Roi",
+            "Taller práctico: roi en un caso profesional",
+            "5.4 Gestión del cambio",
+            "Taller práctico: gestión del cambio en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Proyecto aplicado",
+          "proposed_lessons": [
+            "6.1 Diagnóstico",
+            "Taller práctico: diagnóstico en un caso profesional",
+            "6.2 Prototipo",
+            "Taller práctico: prototipo en un caso profesional",
+            "6.3 Indicadores",
+            "Taller práctico: indicadores en un caso profesional",
+            "6.4 Presentación ejecutiva",
+            "Taller práctico: presentación ejecutiva en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1.3",
+      "name": "E-commerce y Comercio Digital",
+      "school_code": "1",
+      "school_name": "Marketing, Comunicación y Negocios Digitales",
+      "type": "Carrera",
+      "duration_indicative": "4–5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de e-commerce y comercio digital. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Modelo comercial",
+          "proposed_lessons": [
+            "1.1 Propuesta de valor",
+            "Taller práctico: propuesta de valor en un caso profesional",
+            "1.2 Mercados",
+            "Taller práctico: mercados en un caso profesional",
+            "1.3 Márgenes",
+            "Taller práctico: márgenes en un caso profesional",
+            "1.4 Unit economics",
+            "Taller práctico: unit economics en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Tienda y experiencia",
+          "proposed_lessons": [
+            "2.1 Shopify o woocommerce",
+            "Taller práctico: shopify o woocommerce en un caso profesional",
+            "2.2 Catálogo",
+            "Taller práctico: catálogo en un caso profesional",
+            "2.3 Checkout",
+            "Taller práctico: checkout en un caso profesional",
+            "2.4 Ux móvil",
+            "Taller práctico: ux móvil en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Captación",
+          "proposed_lessons": [
+            "3.1 Seo comercial",
+            "Taller práctico: seo comercial en un caso profesional",
+            "3.2 Meta y tiktok",
+            "Taller práctico: meta y tiktok en un caso profesional",
+            "3.3 Google shopping",
+            "Taller práctico: google shopping en un caso profesional",
+            "3.4 Afiliados",
+            "Taller práctico: afiliados en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Operaciones",
+          "proposed_lessons": [
+            "4.1 Pagos",
+            "Taller práctico: pagos en un caso profesional",
+            "4.2 Logística",
+            "Taller práctico: logística en un caso profesional",
+            "4.3 Inventario",
+            "Taller práctico: inventario en un caso profesional",
+            "4.4 Devoluciones",
+            "Taller práctico: devoluciones en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Analítica y retención",
+          "proposed_lessons": [
+            "5.1 Ga4",
+            "Taller práctico: ga4 en un caso profesional",
+            "5.2 Cohortes",
+            "Taller práctico: cohortes en un caso profesional",
+            "5.3 Email",
+            "Taller práctico: email en un caso profesional",
+            "5.4 Crm",
+            "Taller práctico: crm en un caso profesional",
+            "5.5 Ltv",
+            "Taller práctico: ltv en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Proyecto tienda",
+          "proposed_lessons": [
+            "6.1 Implementación",
+            "Taller práctico: implementación en un caso profesional",
+            "6.2 Campañas",
+            "Taller práctico: campañas en un caso profesional",
+            "6.3 Tablero",
+            "Taller práctico: tablero en un caso profesional",
+            "6.4 Plan de mejora",
+            "Taller práctico: plan de mejora en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1.4",
+      "name": "Desarrollo de Negocios y Ventas Consultivas",
+      "school_code": "1",
+      "school_name": "Marketing, Comunicación y Negocios Digitales",
+      "type": "Carrera",
+      "duration_indicative": "4–5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de desarrollo de negocios y ventas consultivas. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Estrategia comercial",
+          "proposed_lessons": [
+            "1.1 Icp",
+            "Taller práctico: icp en un caso profesional",
+            "1.2 Tam/sam/som",
+            "Taller práctico: tam/sam/som en un caso profesional",
+            "1.3 Propuesta de valor",
+            "Taller práctico: propuesta de valor en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Prospección",
+          "proposed_lessons": [
+            "2.1 Outbound",
+            "Taller práctico: outbound en un caso profesional",
+            "2.2 Social selling",
+            "Taller práctico: social selling en un caso profesional",
+            "2.3 Crm",
+            "Taller práctico: crm en un caso profesional",
+            "2.4 Cadencias",
+            "Taller práctico: cadencias en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Venta consultiva",
+          "proposed_lessons": [
+            "3.1 Discovery",
+            "Taller práctico: discovery en un caso profesional",
+            "3.2 Diagnóstico",
+            "Taller práctico: diagnóstico en un caso profesional",
+            "3.3 Objeciones",
+            "Taller práctico: objeciones en un caso profesional",
+            "3.4 Negociación ética",
+            "Taller práctico: negociación ética en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Pipeline",
+          "proposed_lessons": [
+            "4.1 Forecast",
+            "Taller práctico: forecast en un caso profesional",
+            "4.2 Métricas",
+            "Taller práctico: métricas en un caso profesional",
+            "4.3 Automatización",
+            "Taller práctico: automatización en un caso profesional",
+            "4.4 Coaching",
+            "Taller práctico: coaching en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Cuentas y expansión",
+          "proposed_lessons": [
+            "5.1 Account planning",
+            "Taller práctico: account planning en un caso profesional",
+            "5.2 Customer success",
+            "Taller práctico: customer success en un caso profesional",
+            "5.3 Upsell",
+            "Taller práctico: upsell en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Proyecto comercial",
+          "proposed_lessons": [
+            "6.1 Playbook",
+            "Taller práctico: playbook en un caso profesional",
+            "6.2 Simulaciones",
+            "Taller práctico: simulaciones en un caso profesional",
+            "6.3 Tablero",
+            "Taller práctico: tablero en un caso profesional",
+            "6.4 Presentación",
+            "Taller práctico: presentación en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1.5",
+      "name": "Community Manager",
+      "school_code": "1",
+      "school_name": "Marketing, Comunicación y Negocios Digitales",
+      "type": "Curso independiente",
+      "duration_indicative": "4–6 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de community manager. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Estrategia social",
+          "proposed_lessons": [
+            "1.1 Objetivos",
+            "Taller práctico: objetivos en un caso profesional",
+            "1.2 Audiencias",
+            "Taller práctico: audiencias en un caso profesional",
+            "1.3 Voz de marca",
+            "Taller práctico: voz de marca en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Producción",
+          "proposed_lessons": [
+            "2.1 Calendario",
+            "Taller práctico: calendario en un caso profesional",
+            "2.2 Formatos",
+            "Taller práctico: formatos en un caso profesional",
+            "2.3 Herramientas creativas",
+            "Taller práctico: herramientas creativas en un caso profesional",
+            "2.4 Accesibilidad",
+            "Taller práctico: accesibilidad en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Comunidad",
+          "proposed_lessons": [
+            "3.1 Moderación",
+            "Taller práctico: moderación en un caso profesional",
+            "3.2 Crisis",
+            "Taller práctico: crisis en un caso profesional",
+            "3.3 Atención",
+            "Taller práctico: atención en un caso profesional",
+            "3.4 Protocolos",
+            "Taller práctico: protocolos en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Medición",
+          "proposed_lessons": [
+            "4.1 Indicadores",
+            "Taller práctico: indicadores en un caso profesional",
+            "4.2 Reportes",
+            "Taller práctico: reportes en un caso profesional",
+            "4.3 Optimización",
+            "Taller práctico: optimización en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1.6",
+      "name": "Google Ads",
+      "school_code": "1",
+      "school_name": "Marketing, Comunicación y Negocios Digitales",
+      "type": "Curso independiente",
+      "duration_indicative": "4–6 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de google ads. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Configuración",
+          "proposed_lessons": [
+            "1.1 Cuenta",
+            "Taller práctico: cuenta en un caso profesional",
+            "1.2 Conversiones",
+            "Taller práctico: conversiones en un caso profesional",
+            "1.3 Políticas",
+            "Taller práctico: políticas en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Search",
+          "proposed_lessons": [
+            "2.1 Keywords",
+            "Taller práctico: keywords en un caso profesional",
+            "2.2 Anuncios",
+            "Taller práctico: anuncios en un caso profesional",
+            "2.3 Pujas",
+            "Taller práctico: pujas en un caso profesional",
+            "2.4 Negativas",
+            "Taller práctico: negativas en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Expansión",
+          "proposed_lessons": [
+            "3.1 Display",
+            "Taller práctico: display en un caso profesional",
+            "3.2 Youtube",
+            "Taller práctico: youtube en un caso profesional",
+            "3.3 Shopping y performance max",
+            "Taller práctico: shopping y performance max en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Optimización",
+          "proposed_lessons": [
+            "4.1 Experimentos",
+            "Taller práctico: experimentos en un caso profesional",
+            "4.2 Atribución",
+            "Taller práctico: atribución en un caso profesional",
+            "4.3 Roas",
+            "Taller práctico: roas en un caso profesional",
+            "4.4 Informe",
+            "Taller práctico: informe en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1.7",
+      "name": "Gestión de E-commerce en Amazon",
+      "school_code": "1",
+      "school_name": "Marketing, Comunicación y Negocios Digitales",
+      "type": "Curso independiente",
+      "duration_indicative": "4–6 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de gestión de e-commerce en amazon. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Modelo Amazon",
+          "proposed_lessons": [
+            "1.1 Seller central",
+            "Taller práctico: seller central en un caso profesional",
+            "1.2 Fba/fbm",
+            "Taller práctico: fba/fbm en un caso profesional",
+            "1.3 Costos",
+            "Taller práctico: costos en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Listings",
+          "proposed_lessons": [
+            "2.1 Catálogo",
+            "Taller práctico: catálogo en un caso profesional",
+            "2.2 Seo amazon",
+            "Taller práctico: seo amazon en un caso profesional",
+            "2.3 Imágenes",
+            "Taller práctico: imágenes en un caso profesional",
+            "2.4 Compliance",
+            "Taller práctico: compliance en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Operación",
+          "proposed_lessons": [
+            "3.1 Inventario",
+            "Taller práctico: inventario en un caso profesional",
+            "3.2 Logística",
+            "Taller práctico: logística en un caso profesional",
+            "3.3 Reseñas y atención",
+            "Taller práctico: reseñas y atención en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Crecimiento",
+          "proposed_lessons": [
+            "4.1 Amazon ads",
+            "Taller práctico: amazon ads en un caso profesional",
+            "4.2 Rentabilidad",
+            "Taller práctico: rentabilidad en un caso profesional",
+            "4.3 Métricas y proyecto",
+            "Taller práctico: métricas y proyecto en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "2.1",
+      "name": "UX/UI Design Profesional",
+      "school_code": "2",
+      "school_name": "Diseño Digital y Experiencia de Usuario",
+      "type": "Carrera",
+      "duration_indicative": "5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de ux/ui design profesional. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Investigación UX",
+          "proposed_lessons": [
+            "1.1 Problemas",
+            "Taller práctico: problemas en un caso profesional",
+            "1.2 Entrevistas",
+            "Taller práctico: entrevistas en un caso profesional",
+            "1.3 Encuestas",
+            "Taller práctico: encuestas en un caso profesional",
+            "1.4 Insights",
+            "Taller práctico: insights en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Arquitectura",
+          "proposed_lessons": [
+            "2.1 Personas",
+            "Taller práctico: personas en un caso profesional",
+            "2.2 Journeys",
+            "Taller práctico: journeys en un caso profesional",
+            "2.3 Flujos",
+            "Taller práctico: flujos en un caso profesional",
+            "2.4 Mapas de sitio",
+            "Taller práctico: mapas de sitio en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Diseño visual",
+          "proposed_lessons": [
+            "3.1 Tipografía",
+            "Taller práctico: tipografía en un caso profesional",
+            "3.2 Color",
+            "Taller práctico: color en un caso profesional",
+            "3.3 Grids",
+            "Taller práctico: grids en un caso profesional",
+            "3.4 Accesibilidad",
+            "Taller práctico: accesibilidad en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Figma y sistemas",
+          "proposed_lessons": [
+            "4.1 Componentes",
+            "Taller práctico: componentes en un caso profesional",
+            "4.2 Auto layout",
+            "Taller práctico: auto layout en un caso profesional",
+            "4.3 Design systems",
+            "Taller práctico: design systems en un caso profesional",
+            "4.4 Handoff",
+            "Taller práctico: handoff en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Prototipos y pruebas",
+          "proposed_lessons": [
+            "5.1 Wireframes",
+            "Taller práctico: wireframes en un caso profesional",
+            "5.2 Prototipos",
+            "Taller práctico: prototipos en un caso profesional",
+            "5.3 Testing",
+            "Taller práctico: testing en un caso profesional",
+            "5.4 Iteración",
+            "Taller práctico: iteración en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Producto y portfolio",
+          "proposed_lessons": [
+            "6.1 Métricas ux",
+            "Taller práctico: métricas ux en un caso profesional",
+            "6.2 Colaboración",
+            "Taller práctico: colaboración en un caso profesional",
+            "6.3 Caso de estudio",
+            "Taller práctico: caso de estudio en un caso profesional",
+            "6.4 Portfolio final",
+            "Taller práctico: portfolio final en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "2.2",
+      "name": "Diseño Multimedial",
+      "school_code": "2",
+      "school_name": "Diseño Digital y Experiencia de Usuario",
+      "type": "Curso independiente",
+      "duration_indicative": "5–7 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de diseño multimedial. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Fundamentos",
+          "proposed_lessons": [
+            "1.1 Narrativa visual",
+            "Taller práctico: narrativa visual en un caso profesional",
+            "1.2 Formatos",
+            "Taller práctico: formatos en un caso profesional",
+            "1.3 Composición",
+            "Taller práctico: composición en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Producción",
+          "proposed_lessons": [
+            "2.1 Imagen y vector",
+            "Taller práctico: imagen y vector en un caso profesional",
+            "2.2 Edición de video",
+            "Taller práctico: edición de video en un caso profesional",
+            "2.3 Motion básico",
+            "Taller práctico: motion básico en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Multicanal",
+          "proposed_lessons": [
+            "3.1 Piezas sociales",
+            "Taller práctico: piezas sociales en un caso profesional",
+            "3.2 Anuncios",
+            "Taller práctico: anuncios en un caso profesional",
+            "3.3 Presentaciones",
+            "Taller práctico: presentaciones en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "4.1 Identidad de campaña",
+            "Taller práctico: identidad de campaña en un caso profesional",
+            "4.2 Kit multimedia",
+            "Taller práctico: kit multimedia en un caso profesional",
+            "4.3 Exportación",
+            "Taller práctico: exportación en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "2.3",
+      "name": "Diseño con Canva",
+      "school_code": "2",
+      "school_name": "Diseño Digital y Experiencia de Usuario",
+      "type": "Curso independiente",
+      "duration_indicative": "3–4 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de diseño con canva. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Fundamentos",
+          "proposed_lessons": [
+            "1.1 Marca",
+            "Taller práctico: marca en un caso profesional",
+            "1.2 Tipografía",
+            "Taller práctico: tipografía en un caso profesional",
+            "1.3 Composición",
+            "Taller práctico: composición en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Producción",
+          "proposed_lessons": [
+            "2.1 Plantillas",
+            "Taller práctico: plantillas en un caso profesional",
+            "2.2 Presentaciones",
+            "Taller práctico: presentaciones en un caso profesional",
+            "2.3 Video corto",
+            "Taller práctico: video corto en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Trabajo colaborativo",
+          "proposed_lessons": [
+            "3.1 Brand kit",
+            "Taller práctico: brand kit en un caso profesional",
+            "3.2 Flujos",
+            "Taller práctico: flujos en un caso profesional",
+            "3.3 Exportación",
+            "Taller práctico: exportación en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "4.1 Kit de piezas para campaña",
+            "Taller práctico: kit de piezas para campaña en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3.1",
+      "name": "Full Stack Development con IA",
+      "school_code": "3",
+      "school_name": "Desarrollo de Software y Programación",
+      "type": "Carrera",
+      "duration_indicative": "6 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de full stack development con ia. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Fundamentos compartidos",
+          "proposed_lessons": [
+            "1.1 Lógica",
+            "Taller práctico: lógica en un caso profesional",
+            "1.2 Git y terminal",
+            "Taller práctico: git y terminal en un caso profesional",
+            "1.3 Http y apis",
+            "Taller práctico: http y apis en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Frontend compartido",
+          "proposed_lessons": [
+            "2.1 Html semántico",
+            "Taller práctico: html semántico en un caso profesional",
+            "2.2 Css responsive",
+            "Taller práctico: css responsive en un caso profesional",
+            "2.3 Javascript",
+            "Taller práctico: javascript en un caso profesional",
+            "2.4 React",
+            "Taller práctico: react en un caso profesional",
+            "2.5 Accesibilidad y testing",
+            "Taller práctico: accesibilidad y testing en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Backend compartido",
+          "proposed_lessons": [
+            "3.1 Node y apis rest",
+            "Taller práctico: node y apis rest en un caso profesional",
+            "3.2 Bases sql",
+            "Taller práctico: bases sql en un caso profesional",
+            "3.3 Autenticación",
+            "Taller práctico: autenticación en un caso profesional",
+            "3.4 Testing",
+            "Taller práctico: testing en un caso profesional",
+            "3.5 Seguridad",
+            "Taller práctico: seguridad en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Integración Full Stack",
+          "proposed_lessons": [
+            "4.1 Arquitectura",
+            "Taller práctico: arquitectura en un caso profesional",
+            "4.2 Conexión front-back",
+            "Taller práctico: conexión front-back en un caso profesional",
+            "4.3 Despliegue",
+            "Taller práctico: despliegue en un caso profesional",
+            "4.4 Observabilidad",
+            "Taller práctico: observabilidad en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "IA en aplicaciones",
+          "proposed_lessons": [
+            "5.1 Consumo de apis ia",
+            "Taller práctico: consumo de apis ia en un caso profesional",
+            "5.2 Prompts estructurados",
+            "Taller práctico: prompts estructurados en un caso profesional",
+            "5.3 Rag introductorio",
+            "Taller práctico: rag introductorio en un caso profesional",
+            "5.4 Evaluación y costos",
+            "Taller práctico: evaluación y costos en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Proyecto integral",
+          "proposed_lessons": [
+            "6.1 Backlog",
+            "Taller práctico: backlog en un caso profesional",
+            "6.2 Implementación",
+            "Taller práctico: implementación en un caso profesional",
+            "6.3 Pruebas",
+            "Taller práctico: pruebas en un caso profesional",
+            "6.4 Despliegue",
+            "Taller práctico: despliegue en un caso profesional",
+            "6.5 Defensa",
+            "Taller práctico: defensa en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3.2",
+      "name": "Frontend Development Profesional",
+      "school_code": "3",
+      "school_name": "Desarrollo de Software y Programación",
+      "type": "Carrera",
+      "duration_indicative": "4–5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de frontend development profesional. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Fundamentos web compartidos",
+          "proposed_lessons": [
+            "1.1 Html semántico",
+            "Taller práctico: html semántico en un caso profesional",
+            "1.2 Css responsive",
+            "Taller práctico: css responsive en un caso profesional",
+            "1.3 Git",
+            "Taller práctico: git en un caso profesional",
+            "1.4 Javascript",
+            "Taller práctico: javascript en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Frontend moderno compartido",
+          "proposed_lessons": [
+            "2.1 React",
+            "Taller práctico: react en un caso profesional",
+            "2.2 Componentes",
+            "Taller práctico: componentes en un caso profesional",
+            "2.3 Estado",
+            "Taller práctico: estado en un caso profesional",
+            "2.4 Routing",
+            "Taller práctico: routing en un caso profesional",
+            "2.5 Consumo de apis",
+            "Taller práctico: consumo de apis en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Calidad frontend",
+          "proposed_lessons": [
+            "3.1 Accesibilidad",
+            "Taller práctico: accesibilidad en un caso profesional",
+            "3.2 Rendimiento",
+            "Taller práctico: rendimiento en un caso profesional",
+            "3.3 Pruebas",
+            "Taller práctico: pruebas en un caso profesional",
+            "3.4 Seguridad cliente",
+            "Taller práctico: seguridad cliente en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Proyecto frontend",
+          "proposed_lessons": [
+            "4.1 Diseño a código",
+            "Taller práctico: diseño a código en un caso profesional",
+            "4.2 Integración api",
+            "Taller práctico: integración api en un caso profesional",
+            "4.3 Despliegue",
+            "Taller práctico: despliegue en un caso profesional",
+            "4.4 Portfolio",
+            "Taller práctico: portfolio en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3.3",
+      "name": "Backend Development Profesional",
+      "school_code": "3",
+      "school_name": "Desarrollo de Software y Programación",
+      "type": "Carrera",
+      "duration_indicative": "4–5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de backend development profesional. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Fundamentos backend compartidos",
+          "proposed_lessons": [
+            "1.1 Git",
+            "Taller práctico: git en un caso profesional",
+            "1.2 Http",
+            "Taller práctico: http en un caso profesional",
+            "1.3 Node",
+            "Taller práctico: node en un caso profesional",
+            "1.4 Arquitectura",
+            "Taller práctico: arquitectura en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Datos y APIs compartidos",
+          "proposed_lessons": [
+            "2.1 Sql",
+            "Taller práctico: sql en un caso profesional",
+            "2.2 Modelado",
+            "Taller práctico: modelado en un caso profesional",
+            "2.3 Rest",
+            "Taller práctico: rest en un caso profesional",
+            "2.4 Validación",
+            "Taller práctico: validación en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Seguridad y calidad",
+          "proposed_lessons": [
+            "3.1 Autenticación",
+            "Taller práctico: autenticación en un caso profesional",
+            "3.2 Autorización",
+            "Taller práctico: autorización en un caso profesional",
+            "3.3 Testing",
+            "Taller práctico: testing en un caso profesional",
+            "3.4 Logging",
+            "Taller práctico: logging en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Despliegue",
+          "proposed_lessons": [
+            "4.1 Contenedores básicos",
+            "Taller práctico: contenedores básicos en un caso profesional",
+            "4.2 Ci/cd introductorio",
+            "Taller práctico: ci/cd introductorio en un caso profesional",
+            "4.3 Monitoreo",
+            "Taller práctico: monitoreo en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Proyecto backend",
+          "proposed_lessons": [
+            "5.1 Api documentada",
+            "Taller práctico: api documentada en un caso profesional",
+            "5.2 Base de datos",
+            "Taller práctico: base de datos en un caso profesional",
+            "5.3 Pruebas",
+            "Taller práctico: pruebas en un caso profesional",
+            "5.4 Despliegue",
+            "Taller práctico: despliegue en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3.4",
+      "name": "Desarrollo de Aplicaciones Móviles",
+      "school_code": "3",
+      "school_name": "Desarrollo de Software y Programación",
+      "type": "Carrera",
+      "duration_indicative": "4 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de desarrollo de aplicaciones móviles. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Fundamentos mobile",
+          "proposed_lessons": [
+            "1.1 Ux móvil",
+            "Taller práctico: ux móvil en un caso profesional",
+            "1.2 Javascript/typescript",
+            "Taller práctico: javascript/typescript en un caso profesional",
+            "1.3 Git",
+            "Taller práctico: git en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "React Native y Expo",
+          "proposed_lessons": [
+            "2.1 Componentes",
+            "Taller práctico: componentes en un caso profesional",
+            "2.2 Navegación",
+            "Taller práctico: navegación en un caso profesional",
+            "2.3 Formularios",
+            "Taller práctico: formularios en un caso profesional",
+            "2.4 Estado",
+            "Taller práctico: estado en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Servicios",
+          "proposed_lessons": [
+            "3.1 Apis",
+            "Taller práctico: apis en un caso profesional",
+            "3.2 Almacenamiento",
+            "Taller práctico: almacenamiento en un caso profesional",
+            "3.3 Autenticación",
+            "Taller práctico: autenticación en un caso profesional",
+            "3.4 Notificaciones",
+            "Taller práctico: notificaciones en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Calidad y publicación",
+          "proposed_lessons": [
+            "4.1 Testing",
+            "Taller práctico: testing en un caso profesional",
+            "4.2 Performance",
+            "Taller práctico: performance en un caso profesional",
+            "4.3 Stores",
+            "Taller práctico: stores en un caso profesional",
+            "4.4 Privacidad",
+            "Taller práctico: privacidad en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Proyecto app",
+          "proposed_lessons": [
+            "5.1 Prototipo",
+            "Taller práctico: prototipo en un caso profesional",
+            "5.2 Implementación",
+            "Taller práctico: implementación en un caso profesional",
+            "5.3 Pruebas",
+            "Taller práctico: pruebas en un caso profesional",
+            "5.4 Publicación simulada",
+            "Taller práctico: publicación simulada en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3.5",
+      "name": "Desarrollo Web Básico y E-commerce",
+      "school_code": "3",
+      "school_name": "Desarrollo de Software y Programación",
+      "type": "Curso independiente",
+      "duration_indicative": "4–6 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de desarrollo web básico y e-commerce. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Web inicial",
+          "proposed_lessons": [
+            "1.1 Dominio",
+            "Taller práctico: dominio en un caso profesional",
+            "1.2 Hosting",
+            "Taller práctico: hosting en un caso profesional",
+            "1.3 Html/css básico",
+            "Taller práctico: html/css básico en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "WordPress",
+          "proposed_lessons": [
+            "2.1 Instalación",
+            "Taller práctico: instalación en un caso profesional",
+            "2.2 Temas",
+            "Taller práctico: temas en un caso profesional",
+            "2.3 Plugins",
+            "Taller práctico: plugins en un caso profesional",
+            "2.4 Seguridad",
+            "Taller práctico: seguridad en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "WooCommerce",
+          "proposed_lessons": [
+            "3.1 Catálogo",
+            "Taller práctico: catálogo en un caso profesional",
+            "3.2 Pagos",
+            "Taller práctico: pagos en un caso profesional",
+            "3.3 Envíos",
+            "Taller práctico: envíos en un caso profesional",
+            "3.4 Impuestos",
+            "Taller práctico: impuestos en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "4.1 Tienda funcional",
+            "Taller práctico: tienda funcional en un caso profesional",
+            "4.2 Seo básico",
+            "Taller práctico: seo básico en un caso profesional",
+            "4.3 Mantenimiento",
+            "Taller práctico: mantenimiento en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4.1",
+      "name": "Ciberseguridad y Seguridad Informática Profesional",
+      "school_code": "4",
+      "school_name": "Ciberseguridad y Seguridad Informática",
+      "type": "Carrera",
+      "duration_indicative": "5–6 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de ciberseguridad y seguridad informática profesional. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Fundamentos y ética",
+          "proposed_lessons": [
+            "1.1 Cia",
+            "Taller práctico: cia en un caso profesional",
+            "1.2 Amenazas",
+            "Taller práctico: amenazas en un caso profesional",
+            "1.3 Marco legal",
+            "Taller práctico: marco legal en un caso profesional",
+            "1.4 Laboratorios autorizados",
+            "Taller práctico: laboratorios autorizados en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Redes y sistemas",
+          "proposed_lessons": [
+            "2.1 Tcp/ip",
+            "Taller práctico: tcp/ip en un caso profesional",
+            "2.2 Linux",
+            "Taller práctico: linux en un caso profesional",
+            "2.3 Windows",
+            "Taller práctico: windows en un caso profesional",
+            "2.4 Hardening",
+            "Taller práctico: hardening en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Seguridad ofensiva responsable",
+          "proposed_lessons": [
+            "3.1 Reconocimiento autorizado",
+            "Taller práctico: reconocimiento autorizado en un caso profesional",
+            "3.2 Vulnerabilidades",
+            "Taller práctico: vulnerabilidades en un caso profesional",
+            "3.3 Owasp",
+            "Taller práctico: owasp en un caso profesional",
+            "3.4 Reporte",
+            "Taller práctico: reporte en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Defensa",
+          "proposed_lessons": [
+            "4.1 Siem introductorio",
+            "Taller práctico: siem introductorio en un caso profesional",
+            "4.2 Logs",
+            "Taller práctico: logs en un caso profesional",
+            "4.3 Detección",
+            "Taller práctico: detección en un caso profesional",
+            "4.4 Respuesta",
+            "Taller práctico: respuesta en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Cloud e identidad",
+          "proposed_lessons": [
+            "5.1 Iam",
+            "Taller práctico: iam en un caso profesional",
+            "5.2 Mfa",
+            "Taller práctico: mfa en un caso profesional",
+            "5.3 Configuración segura",
+            "Taller práctico: configuración segura en un caso profesional",
+            "5.4 Backups",
+            "Taller práctico: backups en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Riesgo y cumplimiento",
+          "proposed_lessons": [
+            "6.1 Iso 27001/nist",
+            "Taller práctico: iso 27001/nist en un caso profesional",
+            "6.2 Continuidad",
+            "Taller práctico: continuidad en un caso profesional",
+            "6.3 Privacidad",
+            "Taller práctico: privacidad en un caso profesional"
+          ]
+        },
+        {
+          "number": 7,
+          "name": "Proyecto blue team",
+          "proposed_lessons": [
+            "7.1 Inventario",
+            "Taller práctico: inventario en un caso profesional",
+            "7.2 Evaluación",
+            "Taller práctico: evaluación en un caso profesional",
+            "7.3 Detección",
+            "Taller práctico: detección en un caso profesional",
+            "7.4 Plan de respuesta",
+            "Taller práctico: plan de respuesta en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "5.1",
+      "name": "Inteligencia Artificial Profesional",
+      "school_code": "5",
+      "school_name": "Datos, Inteligencia Artificial y Automatización",
+      "type": "Carrera",
+      "duration_indicative": "6 meses / 180 h orientativas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de inteligencia artificial profesional. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Fundamentos IA",
+          "proposed_lessons": [
+            "1.1 Historia",
+            "Taller práctico: historia en un caso profesional",
+            "1.2 Tipos de modelos",
+            "Taller práctico: tipos de modelos en un caso profesional",
+            "1.3 Ética",
+            "Taller práctico: ética en un caso profesional",
+            "1.4 Evaluación",
+            "Taller práctico: evaluación en un caso profesional",
+            "1.5 Casos",
+            "Taller práctico: casos en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Python para IA",
+          "proposed_lessons": [
+            "2.1 Sintaxis",
+            "Taller práctico: sintaxis en un caso profesional",
+            "2.2 Estructuras",
+            "Taller práctico: estructuras en un caso profesional",
+            "2.3 Numpy",
+            "Taller práctico: numpy en un caso profesional",
+            "2.4 Pandas",
+            "Taller práctico: pandas en un caso profesional",
+            "2.5 Notebooks",
+            "Taller práctico: notebooks en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Datos y matemáticas",
+          "proposed_lessons": [
+            "3.1 Estadística",
+            "Taller práctico: estadística en un caso profesional",
+            "3.2 Álgebra lineal intuitiva",
+            "Taller práctico: álgebra lineal intuitiva en un caso profesional",
+            "3.3 Limpieza",
+            "Taller práctico: limpieza en un caso profesional",
+            "3.4 Visualización",
+            "Taller práctico: visualización en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Machine Learning",
+          "proposed_lessons": [
+            "4.1 Regresión",
+            "Taller práctico: regresión en un caso profesional",
+            "4.2 Clasificación",
+            "Taller práctico: clasificación en un caso profesional",
+            "4.3 Validación",
+            "Taller práctico: validación en un caso profesional",
+            "4.4 Métricas",
+            "Taller práctico: métricas en un caso profesional",
+            "4.5 Pipelines",
+            "Taller práctico: pipelines en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Deep Learning",
+          "proposed_lessons": [
+            "5.1 Redes neuronales",
+            "Taller práctico: redes neuronales en un caso profesional",
+            "5.2 Entrenamiento",
+            "Taller práctico: entrenamiento en un caso profesional",
+            "5.3 Visión",
+            "Taller práctico: visión en un caso profesional",
+            "5.4 Embeddings",
+            "Taller práctico: embeddings en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "IA generativa y LLM",
+          "proposed_lessons": [
+            "6.1 Transformers",
+            "Taller práctico: transformers en un caso profesional",
+            "6.2 Prompting",
+            "Taller práctico: prompting en un caso profesional",
+            "6.3 Evaluación",
+            "Taller práctico: evaluación en un caso profesional",
+            "6.4 Seguridad",
+            "Taller práctico: seguridad en un caso profesional",
+            "6.5 Modelos abiertos",
+            "Taller práctico: modelos abiertos en un caso profesional"
+          ]
+        },
+        {
+          "number": 7,
+          "name": "Aplicaciones IA",
+          "proposed_lessons": [
+            "7.1 Apis",
+            "Taller práctico: apis en un caso profesional",
+            "7.2 Rag",
+            "Taller práctico: rag en un caso profesional",
+            "7.3 Bases vectoriales",
+            "Taller práctico: bases vectoriales en un caso profesional",
+            "7.4 Agentes introductorios",
+            "Taller práctico: agentes introductorios en un caso profesional",
+            "7.5 Monitoreo",
+            "Taller práctico: monitoreo en un caso profesional"
+          ]
+        },
+        {
+          "number": 8,
+          "name": "Implementación profesional",
+          "proposed_lessons": [
+            "8.1 Mlops básico",
+            "Taller práctico: mlops básico en un caso profesional",
+            "8.2 Privacidad",
+            "Taller práctico: privacidad en un caso profesional",
+            "8.3 Costos",
+            "Taller práctico: costos en un caso profesional",
+            "8.4 Proyecto integral",
+            "Taller práctico: proyecto integral en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "5.2",
+      "name": "Data Analytics y Business Intelligence",
+      "school_code": "5",
+      "school_name": "Datos, Inteligencia Artificial y Automatización",
+      "type": "Carrera",
+      "duration_indicative": "5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de data analytics y business intelligence. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Datos y preguntas de negocio",
+          "proposed_lessons": [
+            "1.1 Kpi",
+            "Taller práctico: kpi en un caso profesional",
+            "1.2 Calidad",
+            "Taller práctico: calidad en un caso profesional",
+            "1.3 Fuentes",
+            "Taller práctico: fuentes en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Excel y SQL",
+          "proposed_lessons": [
+            "2.1 Funciones",
+            "Taller práctico: funciones en un caso profesional",
+            "2.2 Consultas",
+            "Taller práctico: consultas en un caso profesional",
+            "2.3 Joins",
+            "Taller práctico: joins en un caso profesional",
+            "2.4 Modelado",
+            "Taller práctico: modelado en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Python analítico",
+          "proposed_lessons": [
+            "3.1 Pandas",
+            "Taller práctico: pandas en un caso profesional",
+            "3.2 Limpieza",
+            "Taller práctico: limpieza en un caso profesional",
+            "3.3 Eda",
+            "Taller práctico: eda en un caso profesional",
+            "3.4 Visualización",
+            "Taller práctico: visualización en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "BI",
+          "proposed_lessons": [
+            "4.1 Power bi",
+            "Taller práctico: power bi en un caso profesional",
+            "4.2 Dax básico",
+            "Taller práctico: dax básico en un caso profesional",
+            "4.3 Dashboards",
+            "Taller práctico: dashboards en un caso profesional",
+            "4.4 Storytelling",
+            "Taller práctico: storytelling en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Analítica aplicada",
+          "proposed_lessons": [
+            "5.1 Cohortes",
+            "Taller práctico: cohortes en un caso profesional",
+            "5.2 Funnels",
+            "Taller práctico: funnels en un caso profesional",
+            "5.3 Experimentación",
+            "Taller práctico: experimentación en un caso profesional",
+            "5.4 Pronóstico básico",
+            "Taller práctico: pronóstico básico en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Proyecto BI",
+          "proposed_lessons": [
+            "6.1 Dataset",
+            "Taller práctico: dataset en un caso profesional",
+            "6.2 Modelo",
+            "Taller práctico: modelo en un caso profesional",
+            "6.3 Dashboard",
+            "Taller práctico: dashboard en un caso profesional",
+            "6.4 Recomendación ejecutiva",
+            "Taller práctico: recomendación ejecutiva en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "5.3",
+      "name": "Automatización y Agentes de Inteligencia Artificial",
+      "school_code": "5",
+      "school_name": "Datos, Inteligencia Artificial y Automatización",
+      "type": "Carrera",
+      "duration_indicative": "4–5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de automatización y agentes de inteligencia artificial. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Procesos",
+          "proposed_lessons": [
+            "1.1 Mapeo",
+            "Taller práctico: mapeo en un caso profesional",
+            "1.2 Priorización",
+            "Taller práctico: priorización en un caso profesional",
+            "1.3 Roi",
+            "Taller práctico: roi en un caso profesional",
+            "1.4 Gobernanza",
+            "Taller práctico: gobernanza en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "No-code",
+          "proposed_lessons": [
+            "2.1 Make o n8n",
+            "Taller práctico: make o n8n en un caso profesional",
+            "2.2 Webhooks",
+            "Taller práctico: webhooks en un caso profesional",
+            "2.3 Apis",
+            "Taller práctico: apis en un caso profesional",
+            "2.4 Errores",
+            "Taller práctico: errores en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "LLM y herramientas",
+          "proposed_lessons": [
+            "3.1 Prompts",
+            "Taller práctico: prompts en un caso profesional",
+            "3.2 Function calling",
+            "Taller práctico: function calling en un caso profesional",
+            "3.3 Extracción",
+            "Taller práctico: extracción en un caso profesional",
+            "3.4 Evaluación",
+            "Taller práctico: evaluación en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Agentes",
+          "proposed_lessons": [
+            "4.1 Memoria",
+            "Taller práctico: memoria en un caso profesional",
+            "4.2 Orquestación",
+            "Taller práctico: orquestación en un caso profesional",
+            "4.3 Herramientas",
+            "Taller práctico: herramientas en un caso profesional",
+            "4.4 Human-in-the-loop",
+            "Taller práctico: human-in-the-loop en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Operación",
+          "proposed_lessons": [
+            "5.1 Seguridad",
+            "Taller práctico: seguridad en un caso profesional",
+            "5.2 Privacidad",
+            "Taller práctico: privacidad en un caso profesional",
+            "5.3 Monitoreo",
+            "Taller práctico: monitoreo en un caso profesional",
+            "5.4 Costos",
+            "Taller práctico: costos en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "6.1 Agente funcional",
+            "Taller práctico: agente funcional en un caso profesional",
+            "6.2 Pruebas",
+            "Taller práctico: pruebas en un caso profesional",
+            "6.3 Métricas",
+            "Taller práctico: métricas en un caso profesional",
+            "6.4 Documentación",
+            "Taller práctico: documentación en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "5.4",
+      "name": "Prompt Engineering",
+      "school_code": "5",
+      "school_name": "Datos, Inteligencia Artificial y Automatización",
+      "type": "Curso independiente",
+      "duration_indicative": "3–4 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de prompt engineering. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Fundamentos",
+          "proposed_lessons": [
+            "1.1 Contexto",
+            "Taller práctico: contexto en un caso profesional",
+            "1.2 Instrucciones",
+            "Taller práctico: instrucciones en un caso profesional",
+            "1.3 Límites",
+            "Taller práctico: límites en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Técnicas",
+          "proposed_lessons": [
+            "2.1 Ejemplos",
+            "Taller práctico: ejemplos en un caso profesional",
+            "2.2 Cadenas de tareas",
+            "Taller práctico: cadenas de tareas en un caso profesional",
+            "2.3 Salidas estructuradas",
+            "Taller práctico: salidas estructuradas en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Aplicaciones",
+          "proposed_lessons": [
+            "3.1 Análisis",
+            "Taller práctico: análisis en un caso profesional",
+            "3.2 Contenidos",
+            "Taller práctico: contenidos en un caso profesional",
+            "3.3 Programación",
+            "Taller práctico: programación en un caso profesional",
+            "3.4 Automatización",
+            "Taller práctico: automatización en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Calidad",
+          "proposed_lessons": [
+            "4.1 Evaluación",
+            "Taller práctico: evaluación en un caso profesional",
+            "4.2 Alucinaciones",
+            "Taller práctico: alucinaciones en un caso profesional",
+            "4.3 Privacidad",
+            "Taller práctico: privacidad en un caso profesional",
+            "4.4 Proyecto",
+            "Taller práctico: proyecto en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "6.1",
+      "name": "Finanzas para Negocios y Dirección",
+      "school_code": "6",
+      "school_name": "Administración, Dirección y Gestión Empresarial",
+      "type": "Carrera",
+      "duration_indicative": "4–5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de finanzas para negocios y dirección. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Contabilidad gerencial",
+          "proposed_lessons": [
+            "1.1 Estados",
+            "Taller práctico: estados en un caso profesional",
+            "1.2 Flujo de caja",
+            "Taller práctico: flujo de caja en un caso profesional",
+            "1.3 Costos",
+            "Taller práctico: costos en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Planeamiento",
+          "proposed_lessons": [
+            "2.1 Presupuestos",
+            "Taller práctico: presupuestos en un caso profesional",
+            "2.2 Escenarios",
+            "Taller práctico: escenarios en un caso profesional",
+            "2.3 Capital de trabajo",
+            "Taller práctico: capital de trabajo en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Decisiones",
+          "proposed_lessons": [
+            "3.1 Van/tir",
+            "Taller práctico: van/tir en un caso profesional",
+            "3.2 Pricing",
+            "Taller práctico: pricing en un caso profesional",
+            "3.3 Rentabilidad",
+            "Taller práctico: rentabilidad en un caso profesional",
+            "3.4 Riesgos",
+            "Taller práctico: riesgos en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Finanzas comerciales",
+          "proposed_lessons": [
+            "4.1 Cac",
+            "Taller práctico: cac en un caso profesional",
+            "4.2 Ltv",
+            "Taller práctico: ltv en un caso profesional",
+            "4.3 Margen",
+            "Taller práctico: margen en un caso profesional",
+            "4.4 Cohortes",
+            "Taller práctico: cohortes en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Control de gestión",
+          "proposed_lessons": [
+            "5.1 Tableros",
+            "Taller práctico: tableros en un caso profesional",
+            "5.2 Kpis",
+            "Taller práctico: kpis en un caso profesional",
+            "5.3 Reporting",
+            "Taller práctico: reporting en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "6.1 Modelo financiero y comité de inversión",
+            "Taller práctico: modelo financiero y comité de inversión en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "6.2",
+      "name": "Liderazgo, Dirección y Gestión Estratégica",
+      "school_code": "6",
+      "school_name": "Administración, Dirección y Gestión Empresarial",
+      "type": "Carrera",
+      "duration_indicative": "5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de liderazgo, dirección y gestión estratégica. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Autoliderazgo",
+          "proposed_lessons": [
+            "1.1 Estilos",
+            "Taller práctico: estilos en un caso profesional",
+            "1.2 Comunicación",
+            "Taller práctico: comunicación en un caso profesional",
+            "1.3 Ética",
+            "Taller práctico: ética en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Equipos",
+          "proposed_lessons": [
+            "2.1 Selección",
+            "Taller práctico: selección en un caso profesional",
+            "2.2 Motivación",
+            "Taller práctico: motivación en un caso profesional",
+            "2.3 Feedback",
+            "Taller práctico: feedback en un caso profesional",
+            "2.4 Desempeño",
+            "Taller práctico: desempeño en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Estrategia",
+          "proposed_lessons": [
+            "3.1 Diagnóstico",
+            "Taller práctico: diagnóstico en un caso profesional",
+            "3.2 Okr",
+            "Taller práctico: okr en un caso profesional",
+            "3.3 Prioridades",
+            "Taller práctico: prioridades en un caso profesional",
+            "3.4 Ejecución",
+            "Taller práctico: ejecución en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Chief of Staff",
+          "proposed_lessons": [
+            "4.1 Agenda ejecutiva",
+            "Taller práctico: agenda ejecutiva en un caso profesional",
+            "4.2 Coordinación transversal",
+            "Taller práctico: coordinación transversal en un caso profesional",
+            "4.3 Decisiones",
+            "Taller práctico: decisiones en un caso profesional",
+            "4.4 Seguimiento",
+            "Taller práctico: seguimiento en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Cambio y crisis",
+          "proposed_lessons": [
+            "5.1 Negociación",
+            "Taller práctico: negociación en un caso profesional",
+            "5.2 Conflictos",
+            "Taller práctico: conflictos en un caso profesional",
+            "5.3 Gestión del cambio",
+            "Taller práctico: gestión del cambio en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Dirección",
+          "proposed_lessons": [
+            "6.1 Gobierno corporativo",
+            "Taller práctico: gobierno corporativo en un caso profesional",
+            "6.2 Indicadores",
+            "Taller práctico: indicadores en un caso profesional",
+            "6.3 Reuniones",
+            "Taller práctico: reuniones en un caso profesional"
+          ]
+        },
+        {
+          "number": 7,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "7.1 Plan estratégico y sistema operativo ejecutivo",
+            "Taller práctico: plan estratégico y sistema operativo ejecutivo en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "6.3",
+      "name": "Product Management y Gestión de Productos Digitales",
+      "school_code": "6",
+      "school_name": "Administración, Dirección y Gestión Empresarial",
+      "type": "Carrera",
+      "duration_indicative": "4–5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de product management y gestión de productos digitales. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Discovery",
+          "proposed_lessons": [
+            "1.1 Problema",
+            "Taller práctico: problema en un caso profesional",
+            "1.2 Investigación",
+            "Taller práctico: investigación en un caso profesional",
+            "1.3 Oportunidades",
+            "Taller práctico: oportunidades en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Estrategia",
+          "proposed_lessons": [
+            "2.1 Visión",
+            "Taller práctico: visión en un caso profesional",
+            "2.2 Posicionamiento",
+            "Taller práctico: posicionamiento en un caso profesional",
+            "2.3 Métricas",
+            "Taller práctico: métricas en un caso profesional",
+            "2.4 Roadmap",
+            "Taller práctico: roadmap en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Delivery",
+          "proposed_lessons": [
+            "3.1 Backlog",
+            "Taller práctico: backlog en un caso profesional",
+            "3.2 Priorización",
+            "Taller práctico: priorización en un caso profesional",
+            "3.3 Historias",
+            "Taller práctico: historias en un caso profesional",
+            "3.4 Trabajo con diseño y tecnología",
+            "Taller práctico: trabajo con diseño y tecnología en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Growth",
+          "proposed_lessons": [
+            "4.1 Experimentos",
+            "Taller práctico: experimentos en un caso profesional",
+            "4.2 Retención",
+            "Taller práctico: retención en un caso profesional",
+            "4.3 Pricing",
+            "Taller práctico: pricing en un caso profesional",
+            "4.4 Analítica",
+            "Taller práctico: analítica en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Liderazgo de producto",
+          "proposed_lessons": [
+            "5.1 Stakeholders",
+            "Taller práctico: stakeholders en un caso profesional",
+            "5.2 Riesgos",
+            "Taller práctico: riesgos en un caso profesional",
+            "5.3 Comunicación",
+            "Taller práctico: comunicación en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "6.1 Prd",
+            "Taller práctico: prd en un caso profesional",
+            "6.2 Prototipo",
+            "Taller práctico: prototipo en un caso profesional",
+            "6.3 Roadmap y métricas",
+            "Taller práctico: roadmap y métricas en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "6.4",
+      "name": "Emprendimiento, Innovación y Venture Building",
+      "school_code": "6",
+      "school_name": "Administración, Dirección y Gestión Empresarial",
+      "type": "Carrera",
+      "duration_indicative": "4–5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de emprendimiento, innovación y venture building. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Oportunidad",
+          "proposed_lessons": [
+            "1.1 Problemas",
+            "Taller práctico: problemas en un caso profesional",
+            "1.2 Clientes",
+            "Taller práctico: clientes en un caso profesional",
+            "1.3 Tendencias",
+            "Taller práctico: tendencias en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Validación",
+          "proposed_lessons": [
+            "2.1 Entrevistas",
+            "Taller práctico: entrevistas en un caso profesional",
+            "2.2 Hipótesis",
+            "Taller práctico: hipótesis en un caso profesional",
+            "2.3 Mvp",
+            "Taller práctico: mvp en un caso profesional",
+            "2.4 Experimentos",
+            "Taller práctico: experimentos en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Modelo",
+          "proposed_lessons": [
+            "3.1 Business model canvas",
+            "Taller práctico: business model canvas en un caso profesional",
+            "3.2 Unit economics",
+            "Taller práctico: unit economics en un caso profesional",
+            "3.3 Pricing",
+            "Taller práctico: pricing en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Go-to-market",
+          "proposed_lessons": [
+            "4.1 Canales",
+            "Taller práctico: canales en un caso profesional",
+            "4.2 Ventas",
+            "Taller práctico: ventas en un caso profesional",
+            "4.3 Crecimiento",
+            "Taller práctico: crecimiento en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Operación y capital",
+          "proposed_lessons": [
+            "5.1 Equipos",
+            "Taller práctico: equipos en un caso profesional",
+            "5.2 Legal básico",
+            "Taller práctico: legal básico en un caso profesional",
+            "5.3 Financiación",
+            "Taller práctico: financiación en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Proyecto venture",
+          "proposed_lessons": [
+            "6.1 Pitch",
+            "Taller práctico: pitch en un caso profesional",
+            "6.2 Mvp y plan financiero",
+            "Taller práctico: mvp y plan financiero en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "6.5",
+      "name": "Experto en Excel",
+      "school_code": "6",
+      "school_name": "Administración, Dirección y Gestión Empresarial",
+      "type": "Carrera",
+      "duration_indicative": "4 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de experto en excel. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Fundamentos",
+          "proposed_lessons": [
+            "1.1 Tablas",
+            "Taller práctico: tablas en un caso profesional",
+            "1.2 Referencias",
+            "Taller práctico: referencias en un caso profesional",
+            "1.3 Fórmulas",
+            "Taller práctico: fórmulas en un caso profesional",
+            "1.4 Formato",
+            "Taller práctico: formato en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Análisis",
+          "proposed_lessons": [
+            "2.1 Funciones avanzadas",
+            "Taller práctico: funciones avanzadas en un caso profesional",
+            "2.2 Búsquedas",
+            "Taller práctico: búsquedas en un caso profesional",
+            "2.3 Matrices dinámicas",
+            "Taller práctico: matrices dinámicas en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Datos",
+          "proposed_lessons": [
+            "3.1 Power query",
+            "Taller práctico: power query en un caso profesional",
+            "3.2 Limpieza",
+            "Taller práctico: limpieza en un caso profesional",
+            "3.3 Validación",
+            "Taller práctico: validación en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Modelado",
+          "proposed_lessons": [
+            "4.1 Tablas dinámicas",
+            "Taller práctico: tablas dinámicas en un caso profesional",
+            "4.2 Dashboards",
+            "Taller práctico: dashboards en un caso profesional",
+            "4.3 Escenarios",
+            "Taller práctico: escenarios en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Automatización",
+          "proposed_lessons": [
+            "5.1 Macros introductorias",
+            "Taller práctico: macros introductorias en un caso profesional",
+            "5.2 Office scripts",
+            "Taller práctico: office scripts en un caso profesional",
+            "5.3 Ia asistida",
+            "Taller práctico: ia asistida en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "6.1 Modelo y dashboard auditables",
+            "Taller práctico: modelo y dashboard auditables en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7.1",
+      "name": "Project Management Profesional",
+      "school_code": "7",
+      "school_name": "Project Management y PMI",
+      "type": "Carrera",
+      "duration_indicative": "5–6 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de project management profesional. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Fundamentos",
+          "proposed_lessons": [
+            "1.1 Ciclo de vida",
+            "Taller práctico: ciclo de vida en un caso profesional",
+            "1.2 Valor",
+            "Taller práctico: valor en un caso profesional",
+            "1.3 Stakeholders",
+            "Taller práctico: stakeholders en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Inicio y alcance",
+          "proposed_lessons": [
+            "2.1 Business case",
+            "Taller práctico: business case en un caso profesional",
+            "2.2 Charter",
+            "Taller práctico: charter en un caso profesional",
+            "2.3 Wbs",
+            "Taller práctico: wbs en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Planificación",
+          "proposed_lessons": [
+            "3.1 Cronograma",
+            "Taller práctico: cronograma en un caso profesional",
+            "3.2 Costos",
+            "Taller práctico: costos en un caso profesional",
+            "3.3 Recursos",
+            "Taller práctico: recursos en un caso profesional",
+            "3.4 Calidad",
+            "Taller práctico: calidad en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Ejecución",
+          "proposed_lessons": [
+            "4.1 Equipo",
+            "Taller práctico: equipo en un caso profesional",
+            "4.2 Adquisiciones",
+            "Taller práctico: adquisiciones en un caso profesional",
+            "4.3 Comunicaciones",
+            "Taller práctico: comunicaciones en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Control",
+          "proposed_lessons": [
+            "5.1 Riesgos",
+            "Taller práctico: riesgos en un caso profesional",
+            "5.2 Cambios",
+            "Taller práctico: cambios en un caso profesional",
+            "5.3 Earned value",
+            "Taller práctico: earned value en un caso profesional",
+            "5.4 Reporting",
+            "Taller práctico: reporting en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Enfoques híbridos",
+          "proposed_lessons": [
+            "6.1 Ágil",
+            "Taller práctico: ágil en un caso profesional",
+            "6.2 Predictivo",
+            "Taller práctico: predictivo en un caso profesional",
+            "6.3 Tailoring",
+            "Taller práctico: tailoring en un caso profesional"
+          ]
+        },
+        {
+          "number": 7,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "7.1 Plan completo",
+            "Taller práctico: plan completo en un caso profesional",
+            "7.2 Simulación y cierre",
+            "Taller práctico: simulación y cierre en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7.2",
+      "name": "Agile Project Management",
+      "school_code": "7",
+      "school_name": "Project Management y PMI",
+      "type": "Carrera",
+      "duration_indicative": "4 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de agile project management. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Mentalidad ágil",
+          "proposed_lessons": [
+            "1.1 Principios",
+            "Taller práctico: principios en un caso profesional",
+            "1.2 Valor",
+            "Taller práctico: valor en un caso profesional",
+            "1.3 Producto",
+            "Taller práctico: producto en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Scrum",
+          "proposed_lessons": [
+            "2.1 Roles",
+            "Taller práctico: roles en un caso profesional",
+            "2.2 Eventos",
+            "Taller práctico: eventos en un caso profesional",
+            "2.3 Artefactos",
+            "Taller práctico: artefactos en un caso profesional",
+            "2.4 Métricas",
+            "Taller práctico: métricas en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Kanban",
+          "proposed_lessons": [
+            "3.1 Flujo",
+            "Taller práctico: flujo en un caso profesional",
+            "3.2 Wip",
+            "Taller práctico: wip en un caso profesional",
+            "3.3 Lead time",
+            "Taller práctico: lead time en un caso profesional",
+            "3.4 Mejora",
+            "Taller práctico: mejora en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Escalamiento e híbridos",
+          "proposed_lessons": [
+            "4.1 Dependencias",
+            "Taller práctico: dependencias en un caso profesional",
+            "4.2 Gobernanza",
+            "Taller práctico: gobernanza en un caso profesional",
+            "4.3 Coordinación",
+            "Taller práctico: coordinación en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Liderazgo ágil",
+          "proposed_lessons": [
+            "5.1 Facilitación",
+            "Taller práctico: facilitación en un caso profesional",
+            "5.2 Retrospectivas",
+            "Taller práctico: retrospectivas en un caso profesional",
+            "5.3 Impedimentos",
+            "Taller práctico: impedimentos en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "6.1 Implementación ágil y tablero de métricas",
+            "Taller práctico: implementación ágil y tablero de métricas en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7.3",
+      "name": "Dirección Estratégica de Proyectos, Programas y Portafolios",
+      "school_code": "7",
+      "school_name": "Project Management y PMI",
+      "type": "Carrera",
+      "duration_indicative": "5–6 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de dirección estratégica de proyectos, programas y portafolios. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Estrategia y gobernanza",
+          "proposed_lessons": [
+            "1.1 Beneficios",
+            "Taller práctico: beneficios en un caso profesional",
+            "1.2 Valor",
+            "Taller práctico: valor en un caso profesional",
+            "1.3 Madurez",
+            "Taller práctico: madurez en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "PMO",
+          "proposed_lessons": [
+            "2.1 Modelos",
+            "Taller práctico: modelos en un caso profesional",
+            "2.2 Servicios",
+            "Taller práctico: servicios en un caso profesional",
+            "2.3 Indicadores",
+            "Taller práctico: indicadores en un caso profesional",
+            "2.4 Adopción",
+            "Taller práctico: adopción en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Program Management",
+          "proposed_lessons": [
+            "3.1 Dependencias",
+            "Taller práctico: dependencias en un caso profesional",
+            "3.2 Beneficios",
+            "Taller práctico: beneficios en un caso profesional",
+            "3.3 Stakeholders",
+            "Taller práctico: stakeholders en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Portfolio Management",
+          "proposed_lessons": [
+            "4.1 Selección",
+            "Taller práctico: selección en un caso profesional",
+            "4.2 Balance",
+            "Taller práctico: balance en un caso profesional",
+            "4.3 Capacidad",
+            "Taller práctico: capacidad en un caso profesional",
+            "4.4 Priorización",
+            "Taller práctico: priorización en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Riesgos y control",
+          "proposed_lessons": [
+            "5.1 Riesgos estratégicos",
+            "Taller práctico: riesgos estratégicos en un caso profesional",
+            "5.2 Reporting",
+            "Taller práctico: reporting en un caso profesional",
+            "5.3 Cronograma",
+            "Taller práctico: cronograma en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Liderazgo ejecutivo",
+          "proposed_lessons": [
+            "6.1 Inversión",
+            "Taller práctico: inversión en un caso profesional",
+            "6.2 Cambios",
+            "Taller práctico: cambios en un caso profesional",
+            "6.3 Comunicación",
+            "Taller práctico: comunicación en un caso profesional"
+          ]
+        },
+        {
+          "number": 7,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "7.1 Diseño de pmo y portafolio",
+            "Taller práctico: diseño de pmo y portafolio en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7.4",
+      "name": "Preparación CAPM",
+      "school_code": "7",
+      "school_name": "Project Management y PMI",
+      "type": "Curso independiente",
+      "duration_indicative": "4–6 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de preparación capm. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Fundamentos PMI",
+          "proposed_lessons": [
+            "1.1 Principios",
+            "Taller práctico: principios en un caso profesional",
+            "1.2 Enfoques",
+            "Taller práctico: enfoques en un caso profesional",
+            "1.3 Dominios",
+            "Taller práctico: dominios en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Predictivo",
+          "proposed_lessons": [
+            "2.1 Alcance",
+            "Taller práctico: alcance en un caso profesional",
+            "2.2 Cronograma",
+            "Taller práctico: cronograma en un caso profesional",
+            "2.3 Costos",
+            "Taller práctico: costos en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Ágil y análisis de negocio",
+          "proposed_lessons": [
+            "3.1 Scrum",
+            "Taller práctico: scrum en un caso profesional",
+            "3.2 Requisitos",
+            "Taller práctico: requisitos en un caso profesional",
+            "3.3 Valor",
+            "Taller práctico: valor en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Simulacros",
+          "proposed_lessons": [
+            "4.1 Banco de preguntas",
+            "Taller práctico: banco de preguntas en un caso profesional",
+            "4.2 Análisis de errores",
+            "Taller práctico: análisis de errores en un caso profesional",
+            "4.3 Plan de examen",
+            "Taller práctico: plan de examen en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7.5",
+      "name": "Preparación PMP",
+      "school_code": "7",
+      "school_name": "Project Management y PMI",
+      "type": "Curso independiente",
+      "duration_indicative": "6–8 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de preparación pmp. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Examen vigente",
+          "proposed_lessons": [
+            "1.1 Dominios y eco",
+            "Taller práctico: dominios y eco en un caso profesional",
+            "1.2 Elegibilidad",
+            "Taller práctico: elegibilidad en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Personas",
+          "proposed_lessons": [
+            "2.1 Liderazgo",
+            "Taller práctico: liderazgo en un caso profesional",
+            "2.2 Conflictos",
+            "Taller práctico: conflictos en un caso profesional",
+            "2.3 Equipos",
+            "Taller práctico: equipos en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Procesos",
+          "proposed_lessons": [
+            "3.1 Riesgos",
+            "Taller práctico: riesgos en un caso profesional",
+            "3.2 Cambios",
+            "Taller práctico: cambios en un caso profesional",
+            "3.3 Entrega",
+            "Taller práctico: entrega en un caso profesional",
+            "3.4 Calidad",
+            "Taller práctico: calidad en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Negocio",
+          "proposed_lessons": [
+            "4.1 Valor",
+            "Taller práctico: valor en un caso profesional",
+            "4.2 Cumplimiento",
+            "Taller práctico: cumplimiento en un caso profesional",
+            "4.3 Beneficios",
+            "Taller práctico: beneficios en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Simulacros",
+          "proposed_lessons": [
+            "5.1 Casos situacionales",
+            "Taller práctico: casos situacionales en un caso profesional",
+            "5.2 Revisión",
+            "Taller práctico: revisión en un caso profesional",
+            "5.3 Estrategia",
+            "Taller práctico: estrategia en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7.6",
+      "name": "Scrum Master",
+      "school_code": "7",
+      "school_name": "Project Management y PMI",
+      "type": "Curso independiente",
+      "duration_indicative": "3–5 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de scrum master. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Scrum Guide",
+          "proposed_lessons": [
+            "1.1 Pilares",
+            "Taller práctico: pilares en un caso profesional",
+            "1.2 Valores",
+            "Taller práctico: valores en un caso profesional",
+            "1.3 Roles",
+            "Taller práctico: roles en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Eventos y artefactos",
+          "proposed_lessons": [
+            "2.1 Sprint",
+            "Taller práctico: sprint en un caso profesional",
+            "2.2 Backlog",
+            "Taller práctico: backlog en un caso profesional",
+            "2.3 Incrementos",
+            "Taller práctico: incrementos en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Facilitación",
+          "proposed_lessons": [
+            "3.1 Impedimentos",
+            "Taller práctico: impedimentos en un caso profesional",
+            "3.2 Coaching",
+            "Taller práctico: coaching en un caso profesional",
+            "3.3 Métricas",
+            "Taller práctico: métricas en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Simulación",
+          "proposed_lessons": [
+            "4.1 Sprint y retrospectiva",
+            "Taller práctico: sprint y retrospectiva en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7.7",
+      "name": "Product Owner",
+      "school_code": "7",
+      "school_name": "Project Management y PMI",
+      "type": "Curso independiente",
+      "duration_indicative": "3–5 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de product owner. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Valor de producto",
+          "proposed_lessons": [
+            "1.1 Visión",
+            "Taller práctico: visión en un caso profesional",
+            "1.2 Stakeholders",
+            "Taller práctico: stakeholders en un caso profesional",
+            "1.3 Objetivos",
+            "Taller práctico: objetivos en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Backlog",
+          "proposed_lessons": [
+            "2.1 Historias",
+            "Taller práctico: historias en un caso profesional",
+            "2.2 Refinamiento",
+            "Taller práctico: refinamiento en un caso profesional",
+            "2.3 Priorización",
+            "Taller práctico: priorización en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Validación",
+          "proposed_lessons": [
+            "3.1 Discovery",
+            "Taller práctico: discovery en un caso profesional",
+            "3.2 Experimentos",
+            "Taller práctico: experimentos en un caso profesional",
+            "3.3 Métricas",
+            "Taller práctico: métricas en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Simulación",
+          "proposed_lessons": [
+            "4.1 Roadmap",
+            "Taller práctico: roadmap en un caso profesional",
+            "4.2 Sprint review",
+            "Taller práctico: sprint review en un caso profesional",
+            "4.3 Decisiones",
+            "Taller práctico: decisiones en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7.8",
+      "name": "Kanban Management",
+      "school_code": "7",
+      "school_name": "Project Management y PMI",
+      "type": "Curso independiente",
+      "duration_indicative": "3–5 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de kanban management. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Flujo",
+          "proposed_lessons": [
+            "1.1 Visualización",
+            "Taller práctico: visualización en un caso profesional",
+            "1.2 Políticas",
+            "Taller práctico: políticas en un caso profesional",
+            "1.3 Wip",
+            "Taller práctico: wip en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Métricas",
+          "proposed_lessons": [
+            "2.1 Throughput",
+            "Taller práctico: throughput en un caso profesional",
+            "2.2 Lead time",
+            "Taller práctico: lead time en un caso profesional",
+            "2.3 Cfd",
+            "Taller práctico: cfd en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Mejora",
+          "proposed_lessons": [
+            "3.1 Cuellos de botella",
+            "Taller práctico: cuellos de botella en un caso profesional",
+            "3.2 Clases de servicio",
+            "Taller práctico: clases de servicio en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "4.1 Diseño y operación de tablero",
+            "Taller práctico: diseño y operación de tablero en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7.9",
+      "name": "Dirección de PMO",
+      "school_code": "7",
+      "school_name": "Project Management y PMI",
+      "type": "Curso independiente",
+      "duration_indicative": "4–6 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de dirección de pmo. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Diagnóstico",
+          "proposed_lessons": [
+            "1.1 Madurez",
+            "Taller práctico: madurez en un caso profesional",
+            "1.2 Mandato",
+            "Taller práctico: mandato en un caso profesional",
+            "1.3 Stakeholders",
+            "Taller práctico: stakeholders en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Diseño",
+          "proposed_lessons": [
+            "2.1 Tipologías pmo",
+            "Taller práctico: tipologías pmo en un caso profesional",
+            "2.2 Catálogo de servicios",
+            "Taller práctico: catálogo de servicios en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Operación",
+          "proposed_lessons": [
+            "3.1 Gobierno",
+            "Taller práctico: gobierno en un caso profesional",
+            "3.2 Métricas",
+            "Taller práctico: métricas en un caso profesional",
+            "3.3 Reporting",
+            "Taller práctico: reporting en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Implementación",
+          "proposed_lessons": [
+            "4.1 Roadmap",
+            "Taller práctico: roadmap en un caso profesional",
+            "4.2 Cambio",
+            "Taller práctico: cambio en un caso profesional",
+            "4.3 Caso de negocio",
+            "Taller práctico: caso de negocio en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7.10",
+      "name": "Program Management",
+      "school_code": "7",
+      "school_name": "Project Management y PMI",
+      "type": "Curso independiente",
+      "duration_indicative": "4–6 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de program management. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Estrategia",
+          "proposed_lessons": [
+            "1.1 Beneficios y business case",
+            "Taller práctico: beneficios y business case en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Gobernanza",
+          "proposed_lessons": [
+            "2.1 Roadmap",
+            "Taller práctico: roadmap en un caso profesional",
+            "2.2 Dependencias",
+            "Taller práctico: dependencias en un caso profesional",
+            "2.3 Stakeholders",
+            "Taller práctico: stakeholders en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Ejecución",
+          "proposed_lessons": [
+            "3.1 Riesgos",
+            "Taller práctico: riesgos en un caso profesional",
+            "3.2 Cambios",
+            "Taller práctico: cambios en un caso profesional",
+            "3.3 Coordinación",
+            "Taller práctico: coordinación en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Caso",
+          "proposed_lessons": [
+            "4.1 Programa multisectorial y tablero",
+            "Taller práctico: programa multisectorial y tablero en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7.11",
+      "name": "Portfolio Management",
+      "school_code": "7",
+      "school_name": "Project Management y PMI",
+      "type": "Curso independiente",
+      "duration_indicative": "4–6 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de portfolio management. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Estrategia",
+          "proposed_lessons": [
+            "1.1 Objetivos y criterios",
+            "Taller práctico: objetivos y criterios en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Selección",
+          "proposed_lessons": [
+            "2.1 Scoring",
+            "Taller práctico: scoring en un caso profesional",
+            "2.2 Capacidad",
+            "Taller práctico: capacidad en un caso profesional",
+            "2.3 Balance",
+            "Taller práctico: balance en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Gobierno",
+          "proposed_lessons": [
+            "3.1 Revisiones",
+            "Taller práctico: revisiones en un caso profesional",
+            "3.2 Financiación",
+            "Taller práctico: financiación en un caso profesional",
+            "3.3 Riesgos",
+            "Taller práctico: riesgos en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Caso",
+          "proposed_lessons": [
+            "4.1 Optimización de portafolio",
+            "Taller práctico: optimización de portafolio en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7.12",
+      "name": "Project Risk Management",
+      "school_code": "7",
+      "school_name": "Project Management y PMI",
+      "type": "Curso independiente",
+      "duration_indicative": "4–6 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de project risk management. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Marco de riesgos",
+          "proposed_lessons": [
+            "1.1 Apetito",
+            "Taller práctico: apetito en un caso profesional",
+            "1.2 Taxonomía",
+            "Taller práctico: taxonomía en un caso profesional",
+            "1.3 Contexto",
+            "Taller práctico: contexto en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Análisis",
+          "proposed_lessons": [
+            "2.1 Identificación",
+            "Taller práctico: identificación en un caso profesional",
+            "2.2 Cualitativo",
+            "Taller práctico: cualitativo en un caso profesional",
+            "2.3 Cuantitativo introductorio",
+            "Taller práctico: cuantitativo introductorio en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Respuesta",
+          "proposed_lessons": [
+            "3.1 Reservas",
+            "Taller práctico: reservas en un caso profesional",
+            "3.2 Propietarios",
+            "Taller práctico: propietarios en un caso profesional",
+            "3.3 Contingencias",
+            "Taller práctico: contingencias en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Seguimiento",
+          "proposed_lessons": [
+            "4.1 Indicadores",
+            "Taller práctico: indicadores en un caso profesional",
+            "4.2 Simulación y registro",
+            "Taller práctico: simulación y registro en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7.13",
+      "name": "Project Scheduling y Control",
+      "school_code": "7",
+      "school_name": "Project Management y PMI",
+      "type": "Curso independiente",
+      "duration_indicative": "4–6 semanas",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de project scheduling y control. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Estructura",
+          "proposed_lessons": [
+            "1.1 Wbs",
+            "Taller práctico: wbs en un caso profesional",
+            "1.2 Actividades",
+            "Taller práctico: actividades en un caso profesional",
+            "1.3 Dependencias",
+            "Taller práctico: dependencias en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Planificación",
+          "proposed_lessons": [
+            "2.1 Cpm",
+            "Taller práctico: cpm en un caso profesional",
+            "2.2 Estimación",
+            "Taller práctico: estimación en un caso profesional",
+            "2.3 Recursos",
+            "Taller práctico: recursos en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Seguimiento",
+          "proposed_lessons": [
+            "3.1 Línea base",
+            "Taller práctico: línea base en un caso profesional",
+            "3.2 Valor ganado",
+            "Taller práctico: valor ganado en un caso profesional",
+            "3.3 Desviaciones",
+            "Taller práctico: desviaciones en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Herramientas",
+          "proposed_lessons": [
+            "4.1 Software de cronogramas",
+            "Taller práctico: software de cronogramas en un caso profesional",
+            "4.2 Reporte y recuperación",
+            "Taller práctico: reporte y recuperación en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "8.1",
+      "name": "Gestión Pública, Transformación del Estado y Transparencia Institucional",
+      "school_code": "8",
+      "school_name": "Gobierno, Políticas Públicas y Asuntos Institucionales",
+      "type": "Carrera",
+      "duration_indicative": "5–6 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de gestión pública, transformación del estado y transparencia institucional. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Estado y gestión",
+          "proposed_lessons": [
+            "1.1 Instituciones",
+            "Taller práctico: instituciones en un caso profesional",
+            "1.2 Presupuesto",
+            "Taller práctico: presupuesto en un caso profesional",
+            "1.3 Servicio civil",
+            "Taller práctico: servicio civil en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Políticas públicas",
+          "proposed_lessons": [
+            "2.1 Ciclo",
+            "Taller práctico: ciclo en un caso profesional",
+            "2.2 Evidencia",
+            "Taller práctico: evidencia en un caso profesional",
+            "2.3 Indicadores",
+            "Taller práctico: indicadores en un caso profesional",
+            "2.4 Evaluación",
+            "Taller práctico: evaluación en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Transformación",
+          "proposed_lessons": [
+            "3.1 Simplificación",
+            "Taller práctico: simplificación en un caso profesional",
+            "3.2 Interoperabilidad",
+            "Taller práctico: interoperabilidad en un caso profesional",
+            "3.3 Servicios ciudadanos",
+            "Taller práctico: servicios ciudadanos en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Transparencia",
+          "proposed_lessons": [
+            "4.1 Acceso a información",
+            "Taller práctico: acceso a información en un caso profesional",
+            "4.2 Datos abiertos",
+            "Taller práctico: datos abiertos en un caso profesional",
+            "4.3 Rendición de cuentas",
+            "Taller práctico: rendición de cuentas en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Auditoría y control",
+          "proposed_lessons": [
+            "5.1 Control interno",
+            "Taller práctico: control interno en un caso profesional",
+            "5.2 Trazabilidad",
+            "Taller práctico: trazabilidad en un caso profesional",
+            "5.3 Riesgos",
+            "Taller práctico: riesgos en un caso profesional",
+            "5.4 Auditoría",
+            "Taller práctico: auditoría en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Integridad",
+          "proposed_lessons": [
+            "6.1 Conflictos de interés",
+            "Taller práctico: conflictos de interés en un caso profesional",
+            "6.2 Contratación",
+            "Taller práctico: contratación en un caso profesional",
+            "6.3 Prevención corrupción",
+            "Taller práctico: prevención corrupción en un caso profesional"
+          ]
+        },
+        {
+          "number": 7,
+          "name": "IA en control público",
+          "proposed_lessons": [
+            "7.1 Anomalías",
+            "Taller práctico: anomalías en un caso profesional",
+            "7.2 Monitoreo",
+            "Taller práctico: monitoreo en un caso profesional",
+            "7.3 Sesgos",
+            "Taller práctico: sesgos en un caso profesional",
+            "7.4 Supervisión humana",
+            "Taller práctico: supervisión humana en un caso profesional"
+          ]
+        },
+        {
+          "number": 8,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "8.1 Plan de modernización y transparencia",
+            "Taller práctico: plan de modernización y transparencia en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "8.2",
+      "name": "Gobierno Digital e Inteligencia Artificial para el Sector Público",
+      "school_code": "8",
+      "school_name": "Gobierno, Políticas Públicas y Asuntos Institucionales",
+      "type": "Carrera",
+      "duration_indicative": "4–5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de gobierno digital e inteligencia artificial para el sector público. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Gobierno digital",
+          "proposed_lessons": [
+            "1.1 Servicios",
+            "Taller práctico: servicios en un caso profesional",
+            "1.2 Identidad",
+            "Taller práctico: identidad en un caso profesional",
+            "1.3 Interoperabilidad",
+            "Taller práctico: interoperabilidad en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Datos públicos",
+          "proposed_lessons": [
+            "2.1 Gobernanza",
+            "Taller práctico: gobernanza en un caso profesional",
+            "2.2 Calidad",
+            "Taller práctico: calidad en un caso profesional",
+            "2.3 Privacidad",
+            "Taller práctico: privacidad en un caso profesional",
+            "2.4 Datos abiertos",
+            "Taller práctico: datos abiertos en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "IA pública",
+          "proposed_lessons": [
+            "3.1 Casos",
+            "Taller práctico: casos en un caso profesional",
+            "3.2 Contratación",
+            "Taller práctico: contratación en un caso profesional",
+            "3.3 Evaluación",
+            "Taller práctico: evaluación en un caso profesional",
+            "3.4 Riesgos",
+            "Taller práctico: riesgos en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Automatización",
+          "proposed_lessons": [
+            "4.1 Procesos",
+            "Taller práctico: procesos en un caso profesional",
+            "4.2 Chatbots",
+            "Taller práctico: chatbots en un caso profesional",
+            "4.3 Accesibilidad",
+            "Taller práctico: accesibilidad en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Ciberseguridad y confianza",
+          "proposed_lessons": [
+            "5.1 Seguridad",
+            "Taller práctico: seguridad en un caso profesional",
+            "5.2 Sesgos",
+            "Taller práctico: sesgos en un caso profesional",
+            "5.3 Auditoría algorítmica",
+            "Taller práctico: auditoría algorítmica en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "6.1 Prototipo de servicio público digital",
+            "Taller práctico: prototipo de servicio público digital en un caso profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "8.3",
+      "name": "Estrategia Política y Comunicación de Gobierno",
+      "school_code": "8",
+      "school_name": "Gobierno, Políticas Públicas y Asuntos Institucionales",
+      "type": "Carrera",
+      "duration_indicative": "5 meses",
+      "price": null,
+      "currency": null,
+      "campus_course_id": null,
+      "curriculum_status": "Propuesta sujeta a validación pedagógica",
+      "objective": "Objetivo: desarrollar capacidades aplicadas para resolver problemas profesionales de estrategia política y comunicación de gobierno. Perfil de ingreso: personas con conocimientos digitales generales; se indican prerrequisitos técnicos específicos durante la admisión. Perfil de egreso: capaz de planificar, ejecutar, documentar y evaluar entregables de este campo, dentro de su nivel formativo.",
+      "modules": [
+        {
+          "number": 1,
+          "name": "Diagnóstico",
+          "proposed_lessons": [
+            "1.1 Opinión pública",
+            "Taller práctico: opinión pública en un caso profesional",
+            "1.2 Investigación",
+            "Taller práctico: investigación en un caso profesional",
+            "1.3 Escucha",
+            "Taller práctico: escucha en un caso profesional"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Estrategia",
+          "proposed_lessons": [
+            "2.1 Objetivos",
+            "Taller práctico: objetivos en un caso profesional",
+            "2.2 Narrativa",
+            "Taller práctico: narrativa en un caso profesional",
+            "2.3 Posicionamiento",
+            "Taller práctico: posicionamiento en un caso profesional"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Comunicación institucional",
+          "proposed_lessons": [
+            "3.1 Vocería",
+            "Taller práctico: vocería en un caso profesional",
+            "3.2 Agenda",
+            "Taller práctico: agenda en un caso profesional",
+            "3.3 Comunicación de políticas",
+            "Taller práctico: comunicación de políticas en un caso profesional"
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Ecosistema digital",
+          "proposed_lessons": [
+            "4.1 Contenidos",
+            "Taller práctico: contenidos en un caso profesional",
+            "4.2 Redes",
+            "Taller práctico: redes en un caso profesional",
+            "4.3 Métricas",
+            "Taller práctico: métricas en un caso profesional",
+            "4.4 Escucha social",
+            "Taller práctico: escucha social en un caso profesional"
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Crisis",
+          "proposed_lessons": [
+            "5.1 Escenarios",
+            "Taller práctico: escenarios en un caso profesional",
+            "5.2 Protocolos",
+            "Taller práctico: protocolos en un caso profesional",
+            "5.3 Desinformación",
+            "Taller práctico: desinformación en un caso profesional",
+            "5.4 Respuesta ética",
+            "Taller práctico: respuesta ética en un caso profesional"
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Evaluación",
+          "proposed_lessons": [
+            "6.1 Reputación",
+            "Taller práctico: reputación en un caso profesional",
+            "6.2 Indicadores",
+            "Taller práctico: indicadores en un caso profesional",
+            "6.3 Aprendizaje",
+            "Taller práctico: aprendizaje en un caso profesional"
+          ]
+        },
+        {
+          "number": 7,
+          "name": "Proyecto",
+          "proposed_lessons": [
+            "7.1 Plan integral de comunicación de gobierno",
+            "Taller práctico: plan integral de comunicación de gobierno en un caso profesional"
+          ]
+        }
+      ]
+    }
+  ]
+}

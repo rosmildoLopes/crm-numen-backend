@@ -35,6 +35,12 @@ ROLE_PERMISSIONS={
  'director_carrera':{'courses.manage'},
  'docente':set(), 'tutor':set(), 'contenidista':set()
 }
+for _role in ('admin','direccion_administrativa','marketing'):
+    ROLE_PERMISSIONS[_role].add('communications.manage')
+
+for _role in ('admin','direccion_administrativa','supervisor_ventas','vendedor'):
+    ROLE_PERMISSIONS[_role].add('ai.use')
+
 def can(user,permission):
     p=ROLE_PERMISSIONS.get(user.role,set())
     return '*' in p or permission in p or (permission=='leads.read' and ('leads.manage' in p or 'leads.own' in p))
